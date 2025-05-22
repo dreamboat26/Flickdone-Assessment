@@ -1,0 +1,19 @@
+gradio>=4.0
+numpy
+pydub
+git+https://github.com/openai/whisper.git
+PyMuPDF  # for PDF reading
+scikit-learn
+sentence-transformers
+torch  # required by transformers + Whisper
+accelerate  # helps with device management for LLM
+sentencepiece  # sometimes required by tokenizer
+scipy
+transformers>=4.37
+huggingface_hub
+TTS
+python-docx
+ebooklib
+pysrt
+moviepy
+SpeechRecognition
