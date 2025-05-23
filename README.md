@@ -2,6 +2,8 @@
 
 A multilingual, speech-enabled assistant that answers user queries based on uploaded documents and media using a Retrieval-Augmented Generation (RAG) architecture. Ask a question in your voice, and get a spoken answer in your language!
 
+![1](https://github.com/user-attachments/assets/98236f37-739e-4e4b-9305-66a15f3f5854)
+
 ---
 
 ## 🚀 What This Project Does
