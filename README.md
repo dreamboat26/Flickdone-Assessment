@@ -6,6 +6,8 @@ A multilingual, speech-enabled assistant that answers user queries based on uplo
 
 ---
 
+Gradio App hosted on Huggingface Spaces : https://huggingface.co/spaces/dreamboat26/Demo
+
 ## 🚀 What This Project Does
 
 This assistant can:
