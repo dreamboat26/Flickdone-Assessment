@@ -162,7 +162,14 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+---
 
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+## Demo Video
+
+[▶ Watch demo video]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/file/d/1esTWCfBeo9H7qIM4bD1s9ZlquDtLbmXZ/view?usp=sharing))
